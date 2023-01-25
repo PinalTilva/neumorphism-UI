@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/neumorphism-UI/static/css/main.05616667.css",
+    "main.js": "/neumorphism-UI/static/js/main.173a574f.js",
+    "index.html": "/neumorphism-UI/index.html",
+    "main.05616667.css.map": "/neumorphism-UI/static/css/main.05616667.css.map",
+    "main.173a574f.js.map": "/neumorphism-UI/static/js/main.173a574f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05616667.css",
+    "static/js/main.173a574f.js"
+  ]
+}
