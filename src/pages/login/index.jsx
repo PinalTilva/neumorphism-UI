@@ -30,7 +30,7 @@ const Login = () => {
           <Button text="Login" color="success" />
         </div>
         <small className="text-center hover:text-blue-400 mt-2 text-xs text-slate-500">
-          <a href="">Forgot password?</a>
+          <a href="#">Forgot password?</a>
         </small>
       </div>
     </>
